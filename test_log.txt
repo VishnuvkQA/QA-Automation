@@ -1,0 +1,4 @@
+=== TEST RUN STARTED ===
+Login Test: PASS
+Cart Test: FAIL
+Checkout Test: PASS
