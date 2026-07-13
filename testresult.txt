@@ -1,7 +1,0 @@
-New Testcase Started
-Login1 is Pass
-login2 is Pass
-Login3 is Fail
-Total tests = 3
-Passed = 2
-Failed = 1
