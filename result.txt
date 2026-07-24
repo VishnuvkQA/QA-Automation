@@ -1,0 +1,5 @@
+test case 1 : passed
+test case 2 : failed
+test case 1 and 2 are read successfully
+ Now we have added a new line without using write mode
+Now we have added a new line without using write mode
