@@ -1,0 +1,5 @@
+29/10/2026 08:12:49 PM -DEBUG : This is Debug log statement 
+29/10/2026 08:12:49 PM -INFO : This is Info log statement 
+29/10/2026 08:12:49 PM -WARNING : This is warning log statement 
+29/10/2026 08:12:49 PM -ERROR : This is error log statement 
+29/10/2026 08:12:49 PM -CRITICAL : This is critical log statement 

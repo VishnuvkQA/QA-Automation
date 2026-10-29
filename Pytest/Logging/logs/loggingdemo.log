@@ -1,0 +1,10 @@
+29/10/2026 07:33:12 PM -DEBUG : This is debug mode and the result is 22 
+29/10/2026 07:33:12 PM -INFO : This is info mode and the result is 22 
+29/10/2026 07:33:12 PM -WARNING : This is warning mode and the result is 22 
+29/10/2026 07:33:12 PM -ERROR : This is error mode and the result is 22 
+29/10/2026 07:33:12 PM -CRITICAL : This is critical mode and the result is 22 
+29/10/2026 07:33:12 PM -DEBUG : This is debug mode and the result is 10 
+29/10/2026 07:33:12 PM -INFO : This is info mode and the result is 10 
+29/10/2026 07:33:12 PM -WARNING : This is warning mode and the result is 10 
+29/10/2026 07:33:12 PM -ERROR : This is error mode and the result is 10 
+29/10/2026 07:33:12 PM -CRITICAL : This is critical mode and the result is 10 
